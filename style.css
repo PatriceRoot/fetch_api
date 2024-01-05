@@ -22,7 +22,7 @@ button {
     border-radius: 8px;
     width: 200px;
     text-align: center;
-    color: blue;
+    color: rgb(0, 0, 0);
 }
 
 img {
